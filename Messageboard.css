@@ -1,0 +1,46 @@
+body {
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    text-shadow: 50px;
+    background-color: peachpuff;
+}
+
+form {
+    box-sizing: border-box;
+}
+
+#text-input{
+    display:inline-block;
+    border:1px solid;
+    border-radius: 25px;
+    text-align: center;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 40%;
+    height: 50px;
+    letter-spacing: 4px;
+}
+
+#input-btn{
+    border:1px solid;
+    border-radius: 25px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button{
+    border:1px solid;
+    border-radius: 25px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
